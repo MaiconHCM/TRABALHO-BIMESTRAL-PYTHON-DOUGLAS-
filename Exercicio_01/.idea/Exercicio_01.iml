@@ -6,11 +6,5 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Exercicio_06" />
-    <orderEntry type="module" module-name="Exercicio_07" />
-    <orderEntry type="module" module-name="Exercicio_08" />
-    <orderEntry type="module" module-name="Exercício_01" />
-    <orderEntry type="module" module-name="Exercicio_09" />
-    <orderEntry type="module" module-name="Exercicio_10" />
   </component>
 </module>
